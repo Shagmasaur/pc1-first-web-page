@@ -54,7 +54,7 @@ Create a replica of a simple web page as shared in the image below.
 - The sub heading text should be `Location and Hours`
 
 #### Task9: Add Paragraph
-- Inside index.html file, after the sub heading `The Restaurant`, add paragraph using p tag.​
+- Inside index.html file, after the sub heading `Location and Hours`, add paragraph using p tag.​
 - The text for the paragraph should be​: `Lowell, Massachusetts;​
                                          Monday through Saturday 11am to 9pm,​
                                         Friday and Saturday, 11am to midnight`
